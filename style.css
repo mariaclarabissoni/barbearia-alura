@@ -7,10 +7,14 @@
  }
 
  p {
-    test-aling:  center;
-
+      text-align: center;
+ }
 
   #missao {
     color:crimson;
     font-size:18px;
+  }
+
+  #banner {
+      WIDTH: ;
   }
