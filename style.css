@@ -1,5 +1,5 @@
- body {
-     background:red;
+ .principal {
+     background:rgb(139, 139, 139);
  }   
  
  hl {
@@ -11,10 +11,22 @@
  }
 
   #missao {
-    color:crimson;
+    color:red;
     font-size:18px;
   }
 
   #banner {
-      WIDTH: ;
+      WIDTH: 100% ;
+  }
+
+  .beneficios-titulos{
+    text-align:center;
+  }
+
+  .itens {
+    font-style: italic;
+  }
+
+  .beneficios {
+    background: #FFFFFF ;
   }
